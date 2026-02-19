@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=laxmareddyp&theme=onedark)](https://github.com/laxmareddyp/github-profile-trophy)" alt="spadala88's trophies" />
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=spadala88&theme=onedark)](https://github.com/spadala88/github-profile-trophy)" alt="spadala88's trophies" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <p align="center">
   <!-- The Pulse Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmareddyp&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spadala88&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true" />
   <br/>
   <!-- The Stats & Streak Side-by-Side -->
  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmareddyp&theme=high-contrast&hide_border=true&fire=EB4C42" />
@@ -26,7 +26,7 @@
 ## 🏆 Created AI Tool to find food price from restaurant: 
 
 
-- 🔹 (https://github.com/spadala88/FoodPricesAITool) - 🧠 **Automated Pipeline:** Fetching prices **LLM** Causal Language Models to **Ollama** 🏗️  
+- 🔹 (https://github.com/spadala88/FoodPricesAITool) - 🧠 **Automated Pipeline:** Fetching prices **LLM** Causal Language Models to **Ollama** 
 
 
 
