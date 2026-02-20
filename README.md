@@ -6,7 +6,7 @@
 🔭 Gen AI Engineer | Deep Learning | Machine Learning Engineer | LLMs
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/spadala88/github-profile-trophy">
     <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=spadala88&theme=onedark)](https://github.com/spadala88/github-profile-trophy)" alt="spadala88's trophies" />
   </a>
 </p>
