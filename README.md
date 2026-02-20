@@ -5,7 +5,11 @@
 
 🔭 Gen AI Engineer | Deep Learning | Machine Learning Engineer | LLMs
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=spadala88&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=spadala88&theme=onedark" alt="spadala88's trophies" />
+  </a>
+</p>
 
  ![](https://komarev.com/ghpvc/?username=spadala88&color=blue)
 
