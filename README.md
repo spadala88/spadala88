@@ -1,6 +1,6 @@
 ## Sandeep Padala
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I+Build+AI+Models;Welcome+to+my+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1B1B1B&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I+Build+AI+Models;Welcome+to+my+profile" alt="Typing SVG" />
 </p>
 
 🔭 Gen AI Engineer | Deep Learning | Machine Learning Engineer | LLMs
